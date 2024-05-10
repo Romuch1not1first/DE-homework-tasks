@@ -1,0 +1,9 @@
+myenv
+check_jobs.py
+stg
+raw
+config
+.env
+docker-compose.yaml
+logs
+plugins
