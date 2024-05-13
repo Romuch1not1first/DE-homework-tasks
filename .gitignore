@@ -7,3 +7,4 @@ config
 docker-compose.yaml
 logs
 plugins
+__pycache__
