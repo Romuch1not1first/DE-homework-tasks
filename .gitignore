@@ -8,3 +8,5 @@ docker-compose.yaml
 logs
 plugins
 __pycache__
+data
+requirements.txt
